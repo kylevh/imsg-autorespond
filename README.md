@@ -7,7 +7,7 @@ allows you to access all text message histories and know when you receieve messa
 
 Simply extract the three files into it's own folder and locate the 'chat.db' file on your mac. Here you will find all your messages and chat_id. As of
 now this program only works with only having one target who you can receieve and send messages to. Locate the chat_id of the person you want to send and
-receive messages down and input the chat_id in both main.py and read.py. Make sure to type the phone number of your target as well.
+receive messages down and input the chat_id in both main.py and read.py. Make sure to type the phone number of your target as well. Script will show you what they texted and you can code your own responses to them.
 
 ## Contributing
 Pull requests are welcome.
